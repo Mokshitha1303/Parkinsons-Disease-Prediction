@@ -20,12 +20,20 @@
   <li>Load the trained model.</li>
   <li>Input a spiral drawing image.</li>
   <ol>
-  <li> **Step 1: Input Image**</li>
-<p>Provide the link to your spiral drawing image here: [Image Link]</p>
+    <li> **Step 1: Input Image**</li>
+    <p><img src="[![Image](https://github.com/user-attachments/assets/0802005a-a7ad-499f-93a1-d75fd235b916)]" alt="Input Image" width="200"></p> 
+    <li> **Step 2: Resized Image**</li>
+    <p><img src="[![Image](https://github.com/user-attachments/assets/af96a375-88fa-4b5f-92c8-3efe0c2bd32b)]" alt="Resized Image" width="200"></p>
   </ol>
   <li>Obtain the prediction (affected or healthy).</li>
 </ol>
 
-<h2>Contributing</h2>
-<p>Contributions to this project are welcome! Please refer to the contribution guidelines for more details.</p>
+<h2>Results</h2>
+<p>The model achieved the following performance:</p>
+<ul>
+  <li>Loss Graph: <img src="[![Image](https://github.com/user-attachments/assets/b0cae875-abb0-4a09-960a-b72a7fe6a12b)]" alt="Loss Graph" width="400"></li>
+  <li>Accuracy Graph: <img src="[![Image](https://github.com/user-attachments/assets/0ce2564f-4ec4-4140-86a6-1a1e31c26965)]" alt="Accuracy Graph" width="400"></li>
+</ul>
+
+
 
