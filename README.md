@@ -23,7 +23,7 @@
     <li> **Step 1: Input Image**</li>
     <a href="https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Input%20Image.md">Link</a> 
     <li> **Step 2: Resized Image**</li>
-    <p><img src="[![Image](https://github.com/user-attachments/assets/af96a375-88fa-4b5f-92c8-3efe0c2bd32b)]" alt="Resized Image" width="200"></p>
+   <a href="https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Resized%20Image.md">Link</a> 
   </ol>
   <li>Obtain the prediction (affected or healthy).</li>
 </ol>
@@ -31,8 +31,8 @@
 <h2>Results</h2>
 <p>The model achieved the following performance:</p>
 <ul>
-  <li>Loss Graph: <img src="[![Image](https://github.com/user-attachments/assets/b0cae875-abb0-4a09-960a-b72a7fe6a12b)]" alt="Loss Graph" width="400"></li>
-  <li>Accuracy Graph: <img src="[https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Accuracy%20graph.md]" alt="Accuracy Graph" width="400"></li>
+  <li>Loss Graph: <a href="https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Loss%20Graph.md">Link</a> </li>
+  <li>Accuracy Graph: <a href="https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Accuracy%20graph.md">Link</a> </li>
 </ul>
 
 
