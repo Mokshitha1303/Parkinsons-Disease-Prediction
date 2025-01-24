@@ -21,7 +21,7 @@
   <li>Input a spiral drawing image.</li>
   <ol>
     <li> **Step 1: Input Image**</li>
-    <p><img src="[![Image](https://github.com/user-attachments/assets/0802005a-a7ad-499f-93a1-d75fd235b916)]" alt="Input Image" width="200"></p> 
+    <a href="https://github.com/Mokshitha1303/Parkinsons-Disease-Prediction/blob/main/Input%20Image.md">Link</a> 
     <li> **Step 2: Resized Image**</li>
     <p><img src="[![Image](https://github.com/user-attachments/assets/af96a375-88fa-4b5f-92c8-3efe0c2bd32b)]" alt="Resized Image" width="200"></p>
   </ol>
