@@ -32,7 +32,7 @@
 <p>The model achieved the following performance:</p>
 <ul>
   <li>Loss Graph: <img src="[![Image](https://github.com/user-attachments/assets/b0cae875-abb0-4a09-960a-b72a7fe6a12b)]" alt="Loss Graph" width="400"></li>
-  <li>Accuracy Graph: <img src="[![Image](https://github.com/user-attachments/assets/0ce2564f-4ec4-4140-86a6-1a1e31c26965)]" alt="Accuracy Graph" width="400"></li>
+  <li>Accuracy Graph: <img src="[Loss Graph.md]" alt="Accuracy Graph" width="400"></li>
 </ul>
 
 
